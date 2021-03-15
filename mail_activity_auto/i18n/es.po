@@ -1,0 +1,53 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* mail_activity_auto
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-11 15:28+0000\n"
+"PO-Revision-Date: 2018-12-11 15:28+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mail_activity_auto
+#: model:ir.model,name:mail_activity_auto.model_mail_activity
+msgid "Activity"
+msgstr "Actividad"
+
+#. module: mail_activity_auto
+#: model:ir.model,name:mail_activity_auto.model_mail_activity_type
+msgid "Activity Type"
+msgstr "Tipo de actividad"
+
+#. module: mail_activity_auto
+#: model:ir.model.fields,field_description:mail_activity_auto.field_mail_activity_type_auto
+msgid "Auto"
+msgstr "Automáticas"
+
+#. module: mail_activity_auto
+#: model:ir.ui.view,arch_db:mail_activity_auto.view_mail_activity_type_search
+msgid "Automatic activity type"
+msgstr "Actividades automáticas"
+
+#. module: mail_activity_auto
+#: model:ir.actions.server,name:mail_activity_auto.ir_cron_activity_mail_type_auto_ir_actions_server
+#: model:ir.cron,cron_name:mail_activity_auto.ir_cron_activity_mail_type_auto
+#: model:ir.cron,name:mail_activity_auto.ir_cron_activity_mail_type_auto
+msgid "Mail Activity Type Auto"
+msgstr "Mail Activity Type Auto"
+
+#. module: mail_activity_auto
+#: model:ir.ui.view,arch_db:mail_activity_auto.view_mail_activity_type_search
+msgid "Search Mail Activity Type"
+msgstr "Search Mail Activity Type"
+
+#. module: mail_activity_auto
+#: model:ir.model.fields,field_description:mail_activity_auto.field_mail_activity_type_action_server_id
+msgid "Server Action"
+msgstr "Acción servidor"
